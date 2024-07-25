@@ -1,4 +1,4 @@
-# DPS - Time series model
+# Time series model
 
 This project forecasts the number of accidents that occurred in 2021 using time series analysis. The model used in this project is SARIMA, and it was trained on data from 2000 to 2018. The testing was done using data from 2019 to 2020 to evaluate the model's performance.
 
